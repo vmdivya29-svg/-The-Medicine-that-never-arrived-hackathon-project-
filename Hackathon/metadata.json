@@ -1,0 +1,6 @@
+{
+  "name": "MediTrack - Rapid Medicine Finder & Pharmacy Dispatch",
+  "description": "Locate verified medicine stock across nearby pharmacies with real-time ETA, emergency dispatch, order tracking, and pharmacy inventory control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
